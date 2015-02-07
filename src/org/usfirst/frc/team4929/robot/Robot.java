@@ -33,6 +33,10 @@ public class Robot extends SampleRobot {
         stick = new Joystick(joystickChannel);
         
     }
+    
+    /*
+     * This is an example of what can show up in GitHub.
+     */
         
 
     /**
